@@ -15,8 +15,6 @@ I build scalable data pipelines that transform raw data into reliable, actionabl
 
 > Building reliable pipelines. Structuring better data. Enabling smarter decisions.
 
----
-
 ## 🛠️ Technologies Stack
 
 ![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
@@ -30,7 +28,6 @@ I build scalable data pipelines that transform raw data into reliable, actionabl
 ![Google Cloud Storage](https://img.shields.io/badge/Google%20Cloud%20Storage-4285F4?style=for-the-badge&logo=googlecloudstorage&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
----
 
 ## 🧠 Core Areas of Interest
 
@@ -43,20 +40,12 @@ I build scalable data pipelines that transform raw data into reliable, actionabl
 | Database Engineering | Schema design and query optimization |
 | Data Infrastructure | Object storage and containerized services |
 
----
-
 ## 📊 GitHub Statistics
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=KingzBrams&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KingzBrams&theme=tokyonight" alt="Profile Details" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KingzBrams&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" width="70%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KingzBrams&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="70%" />
 </p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KingzBrams&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
-</p>
-
----
 
 ## 🐍 Contribution Snake
 
@@ -74,9 +63,7 @@ I build scalable data pipelines that transform raw data into reliable, actionabl
   </picture>
 </p>
 
----
-
-### 🤝 Let's Connect
+## 🤝 Let's Connect
 
 I'm always interested in data engineering, modern data platforms, and building reliable data infrastructure.
 Feel free to explore my repositories and follow my journey!
