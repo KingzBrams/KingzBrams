@@ -3,16 +3,7 @@
 
 ### Data Engineer | Building Scalable & Reliable Data Pipelines
 
-I build scalable data pipelines that transform raw data into reliable, actionable insights. I'm passionate about designing efficient data architectures and turning complex data into meaningful business value.
-
-- **Data Pipeline Engineering** — Building end-to-end ETL/ELT workflows
-- **Workflow Orchestration** — Automating pipelines with Apache Airflow
-- **Big Data Processing** — Processing distributed datasets with PySpark
-- **Data Transformation** — Building modular data models with dbt
-- **Database Engineering** — Database design, data modeling, and query optimization
-- **Cloud & Object Storage** — Working with BigQuery, Google Cloud Storage, and MinIO
-
-> Building reliable pipelines. Structuring better data. Enabling smarter decisions.
+> I build scalable data pipelines that transform raw data into reliable, actionable insights. I'm passionate about designing efficient data architectures and turning complex data into meaningful business value.
 
 ## 🛠️ Technologies Stack
 
