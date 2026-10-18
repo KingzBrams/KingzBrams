@@ -1,5 +1,5 @@
 
-# 👋 Hey, I'm Mohamad Varrel Bramasta
+# 👋 Hey, I'm Bramasta
 
 ### Data Engineer | Building Scalable & Reliable Data Pipelines
 
@@ -11,7 +11,6 @@ I build scalable data pipelines that transform raw data into reliable, actionabl
 - **Data Transformation** — Building modular data models with dbt
 - **Database Engineering** — Database design, data modeling, and query optimization
 - **Cloud & Object Storage** — Working with BigQuery, Google Cloud Storage, and MinIO
-- **Infrastructure** — Containerization and reproducible environments with Docker
 
 > Building reliable pipelines. Structuring better data. Enabling smarter decisions.
 
@@ -68,4 +67,4 @@ I build scalable data pipelines that transform raw data into reliable, actionabl
 I'm always interested in data engineering, modern data platforms, and building reliable data infrastructure.
 Feel free to explore my repositories and follow my journey!
 
-**Thanks for stopping by — happy engineering!**
+**Thanks for stopping by !**
