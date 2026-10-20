@@ -37,22 +37,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KingzBrams&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="70%" />
 </p>
 
-## 🐍 Contribution Snake
-
-<p align="left">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/KingzBrams/KingzBrams/output/github-snake-dark.svg">
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/KingzBrams/KingzBrams/output/github-snake.svg">
-    <img
-      alt="GitHub Contribution Snake"
-      src="https://raw.githubusercontent.com/KingzBrams/KingzBrams/output/github-snake.svg">
-  </picture>
-</p>
-
 ## 🤝 Let's Connect
 
 I'm always interested in data engineering, modern data platforms, and building reliable data infrastructure.
