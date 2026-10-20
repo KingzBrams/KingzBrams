@@ -1,15 +1,26 @@
 
 # 👋 Hey, I'm Bramasta
 
-### Data Engineer | Building Scalable & Reliable Data Pipelines
+### Data Engineer | Database Architecture & Pipeline Specialist
 
-> I build scalable data pipelines that transform raw data into reliable, actionable insights. I'm passionate about designing efficient data architectures and turning complex data into meaningful business value.
+> Bridging the gap between data infrastructure and business insights. Experienced in architecting resilient databases, optimizing performance, and building scalable data pipelines.
+
+### Core Areas of Interest
+
+| Area | Description |
+|---|---|
+| Data Engineering | End-to-end ETL/ELT pipeline development |
+| Workflow Orchestration | Scheduling, dependencies, and automation |
+| Big Data Processing | Distributed processing with PySpark |
+| Database Engineering | Schema design and query optimization |
+| Data Infrastructure | Object storage and containerized services |
 
 ## 🛠️ Technologies Stack
 
 ![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+![PySpark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -17,18 +28,6 @@
 ![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white)
 ![Google Cloud Storage](https://img.shields.io/badge/Google%20Cloud%20Storage-4285F4?style=for-the-badge&logo=googlecloudstorage&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-
-## 🧠 Core Areas of Interest
-
-| Area | Description |
-|---|---|
-| Data Engineering | End-to-end ETL/ELT pipeline development |
-| Workflow Orchestration | Scheduling, dependencies, and automation |
-| Data Transformation | Modular data models and data quality |
-| Big Data Processing | Distributed processing with PySpark |
-| Database Engineering | Schema design and query optimization |
-| Data Infrastructure | Object storage and containerized services |
 
 ## 📊 GitHub Statistics
 
@@ -42,4 +41,4 @@
 I'm always interested in data engineering, modern data platforms, and building reliable data infrastructure.
 Feel free to explore my repositories and follow my journey!
 
-**Thanks for stopping by !**
+**Thanks for stopping by :)**
