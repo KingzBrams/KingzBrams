@@ -1,21 +1,14 @@
+## Data Engineer & Database Specialist
 
-# 👋 Hey, I'm Bramasta
+> *Designing resilient data architectures, high-performance database systems, and scalable data pipelines to transform complex raw data into business-critical assets. Data Engineer with a strong foundation in **Database Architecture**, **Data Modeling**, and **Scalable Pipeline Design**. I specialize in building reliable end-to-end data ecosystems—from high-throughput ingestion and transactional database tuning to analytical data warehouse schemas.*
 
-### Data Engineer | Database Architecture & Pipeline Specialist
+## 🎯 Core Competencies
 
-> Bridging the gap between data infrastructure and business insights. Experienced in architecting resilient databases, optimizing performance, and building scalable data pipelines.
+- **Database Architecture & Optimization:** Schema design (Star/Snowflake), query tuning, spatial indexing, autovacuum management, and performance monitoring.
+- **Data Engineering & ETL/ELT:** Orchestrating fault-tolerant workflows, incremental data modeling, and streaming/batch data ingestion.
+- **Storage & Infrastructure:** Architecting modern data lakehouses, object storage management, and containerized deployments.
 
-### Core Areas of Interest
-
-| Area | Description |
-|---|---|
-| Data Engineering | End-to-end ETL/ELT pipeline development |
-| Workflow Orchestration | Scheduling, dependencies, and automation |
-| Big Data Processing | Distributed processing with PySpark |
-| Database Engineering | Schema design and query optimization |
-| Data Infrastructure | Object storage and containerized services |
-
-## 🛠️ Technologies Stack
+## 🛠️ Technology Stack
 
 ![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
@@ -29,16 +22,10 @@
 ![Google Cloud Storage](https://img.shields.io/badge/Google%20Cloud%20Storage-4285F4?style=for-the-badge&logo=googlecloudstorage&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-## 📊 GitHub Statistics
+
+## 📊 GitHub Analytics
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=KingzBrams&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" width="70%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KingzBrams&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="70%" />
+<img src="https://github-readme-stats.vercel.app/api?username=KingzBrams&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" width="70%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=KingzBrams&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="70%" />
 </p>
-
-## 🤝 Let's Connect
-
-I'm always interested in data engineering, modern data platforms, and building reliable data infrastructure.
-Feel free to explore my repositories and follow my journey!
-
-**Thanks for stopping by :)**
